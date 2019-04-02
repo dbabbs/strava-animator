@@ -48,4 +48,4 @@ const interval = setInterval(() => {
       document.getElementById('time').innerText = times[z];
    }
    z++;
-}, 5)
+}, 3)
