@@ -22,11 +22,12 @@ body {
    width: 100vw;
    /* height: var(--sidebar-height); */
    left: 0;
-   background: rgba(0,0,0, .8);
+   background: rgba(255,255,255, .8);
    z-index: 50000;
    position: absolute;
    display: flex;
    align-items: center;
+
 
 }
 
@@ -41,11 +42,11 @@ body {
 .lead {
    font-size: 32px;
    margin-top: 10px;
-   color: white;
+   color: rgba(0,0,0, 0.8);
 }
 
 .sublead {
-   color: rgba(255,255,255, 0.7);
+   color: rgba(0,0,0, 0.5);
    font-size: 18px;
 }
 
